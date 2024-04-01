@@ -1,0 +1,7 @@
+print("Enter two integer for addition, substraction and mulitplication")
+a = int(input())
+b = int(input())
+print("Results:")
+print("Addition:", a + b)
+print("Substraction:", a - b)
+print("Multiplication:", a * b)
